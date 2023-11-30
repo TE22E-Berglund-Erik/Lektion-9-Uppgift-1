@@ -1,0 +1,28 @@
+body {
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+header,
+nav,
+article,
+footer,
+main {
+    border: 3px solid black;
+    border-radius: 5px;
+    text-align: center;
+
+}
+#mitten {
+margin-top: 5px;
+margin-bottom: 5px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+main{
+    padding: 5px;
+} 
